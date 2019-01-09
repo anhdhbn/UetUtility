@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold  "data source=den1.mssql8.gear.host;Database=UetGrade;initial catalog=UetGrade;persist security info=True;user id=uetgrade;password=Honganh99^^;multipleactiveresultsets=True;" Microsoft.EntityFrameworkCore.SqlServer  -o Models -f --no-build -c "UetContext"

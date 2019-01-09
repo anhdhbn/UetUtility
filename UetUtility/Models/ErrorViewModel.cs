@@ -1,6 +1,6 @@
 using System;
 
-namespace UetUtility.Models
+namespace UetGrade.Models
 {
     public class ErrorViewModel
     {
